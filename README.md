@@ -9,5 +9,5 @@ Development of a SPA (Single Page Application)
 Using React for the Front-End and Redux as state management. All the components were made with CSS without the use of external libraries. The SPA consumes data from an API and in it you can search the climate of different cities
 
 <hr>
-<div style="text-align:center">><img src='./img/weatherapp2.JPG'></div>
+<div style="text-align:center"><img src='./img/weatherapp2.JPG'></div>
 <img src='./img/weatherapp.JPG'>
